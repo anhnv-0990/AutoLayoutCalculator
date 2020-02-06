@@ -1,5 +1,8 @@
 # AutoLayoutCalculator
 
+## Design
+<img width="931" alt="Screen Shot 2020-02-06 at 11 28 25 PM" src="https://user-images.githubusercontent.com/60588629/73957102-751c3300-4938-11ea-8b40-23506386ca78.png">
+
 ### Iphone 11
 <img width="376" alt="Screen Shot 2020-02-06 at 11 16 42 PM" src="https://user-images.githubusercontent.com/60588629/73956168-26ba6480-4937-11ea-86db-2aa80951b343.png">
 <img width="638" alt="Screen Shot 2020-02-06 at 11 16 57 PM" src="https://user-images.githubusercontent.com/60588629/73956216-3639ad80-4937-11ea-9081-e65ab75ee160.png">
